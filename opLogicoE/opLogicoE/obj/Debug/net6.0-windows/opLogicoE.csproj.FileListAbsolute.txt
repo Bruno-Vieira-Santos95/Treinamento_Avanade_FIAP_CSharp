@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\opLogicoE\opLogicoE\bin\Debug\net6.0-windows\opLogicoE.exe
+C:\AulaFIAPC#\opLogicoE\opLogicoE\bin\Debug\net6.0-windows\opLogicoE.deps.json
+C:\AulaFIAPC#\opLogicoE\opLogicoE\bin\Debug\net6.0-windows\opLogicoE.runtimeconfig.json
+C:\AulaFIAPC#\opLogicoE\opLogicoE\bin\Debug\net6.0-windows\opLogicoE.dll
+C:\AulaFIAPC#\opLogicoE\opLogicoE\bin\Debug\net6.0-windows\ref\opLogicoE.dll
+C:\AulaFIAPC#\opLogicoE\opLogicoE\bin\Debug\net6.0-windows\opLogicoE.pdb
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.Form1.resources
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.csproj.GenerateResource.cache
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.AssemblyInfo.cs
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.dll
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\ref\opLogicoE.dll
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.pdb
+C:\AulaFIAPC#\opLogicoE\opLogicoE\obj\Debug\net6.0-windows\opLogicoE.genruntimeconfig.cache

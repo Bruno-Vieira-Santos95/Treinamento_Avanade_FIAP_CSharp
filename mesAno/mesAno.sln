@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mesAno", "mesAno\mesAno.csproj", "{17AA493F-DA03-43D6-A539-4FB299E7DDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AA493F-DA03-43D6-A539-4FB299E7DDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AA493F-DA03-43D6-A539-4FB299E7DDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AA493F-DA03-43D6-A539-4FB299E7DDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AA493F-DA03-43D6-A539-4FB299E7DDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7251C975-42C4-443C-B192-86C7086169B3}
+	EndGlobalSection
+EndGlobal

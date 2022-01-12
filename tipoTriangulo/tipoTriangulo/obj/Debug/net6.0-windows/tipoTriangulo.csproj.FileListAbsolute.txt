@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\bin\Debug\net6.0-windows\tipoTriangulo.exe
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\bin\Debug\net6.0-windows\tipoTriangulo.deps.json
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\bin\Debug\net6.0-windows\tipoTriangulo.runtimeconfig.json
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\bin\Debug\net6.0-windows\tipoTriangulo.dll
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\bin\Debug\net6.0-windows\ref\tipoTriangulo.dll
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\bin\Debug\net6.0-windows\tipoTriangulo.pdb
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.Form1.resources
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.csproj.GenerateResource.cache
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.AssemblyInfo.cs
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.dll
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\ref\tipoTriangulo.dll
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.pdb
+C:\AulaFIAPC#\tipoTriangulo\tipoTriangulo\obj\Debug\net6.0-windows\tipoTriangulo.genruntimeconfig.cache

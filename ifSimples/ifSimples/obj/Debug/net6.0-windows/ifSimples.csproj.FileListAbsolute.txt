@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\ifSimples\ifSimples\bin\Debug\net6.0-windows\ifSimples.exe
+C:\AulaFIAPC#\ifSimples\ifSimples\bin\Debug\net6.0-windows\ifSimples.deps.json
+C:\AulaFIAPC#\ifSimples\ifSimples\bin\Debug\net6.0-windows\ifSimples.runtimeconfig.json
+C:\AulaFIAPC#\ifSimples\ifSimples\bin\Debug\net6.0-windows\ifSimples.dll
+C:\AulaFIAPC#\ifSimples\ifSimples\bin\Debug\net6.0-windows\ref\ifSimples.dll
+C:\AulaFIAPC#\ifSimples\ifSimples\bin\Debug\net6.0-windows\ifSimples.pdb
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.Form1.resources
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.csproj.GenerateResource.cache
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.AssemblyInfo.cs
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.dll
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ref\ifSimples.dll
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.pdb
+C:\AulaFIAPC#\ifSimples\ifSimples\obj\Debug\net6.0-windows\ifSimples.genruntimeconfig.cache

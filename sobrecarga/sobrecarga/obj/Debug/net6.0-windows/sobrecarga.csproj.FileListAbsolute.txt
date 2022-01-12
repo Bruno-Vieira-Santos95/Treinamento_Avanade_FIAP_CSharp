@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\sobrecarga\sobrecarga\bin\Debug\net6.0-windows\sobrecarga.exe
+C:\AulaFIAPC#\sobrecarga\sobrecarga\bin\Debug\net6.0-windows\sobrecarga.deps.json
+C:\AulaFIAPC#\sobrecarga\sobrecarga\bin\Debug\net6.0-windows\sobrecarga.runtimeconfig.json
+C:\AulaFIAPC#\sobrecarga\sobrecarga\bin\Debug\net6.0-windows\sobrecarga.dll
+C:\AulaFIAPC#\sobrecarga\sobrecarga\bin\Debug\net6.0-windows\ref\sobrecarga.dll
+C:\AulaFIAPC#\sobrecarga\sobrecarga\bin\Debug\net6.0-windows\sobrecarga.pdb
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.Form1.resources
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.csproj.GenerateResource.cache
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.AssemblyInfo.cs
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.dll
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\ref\sobrecarga.dll
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.pdb
+C:\AulaFIAPC#\sobrecarga\sobrecarga\obj\Debug\net6.0-windows\sobrecarga.genruntimeconfig.cache

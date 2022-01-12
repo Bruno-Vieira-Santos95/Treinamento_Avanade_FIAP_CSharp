@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\mediaAluno\mediaAluno\bin\Debug\net6.0-windows\mediaAluno.exe
+C:\AulaFIAPC#\mediaAluno\mediaAluno\bin\Debug\net6.0-windows\mediaAluno.deps.json
+C:\AulaFIAPC#\mediaAluno\mediaAluno\bin\Debug\net6.0-windows\mediaAluno.runtimeconfig.json
+C:\AulaFIAPC#\mediaAluno\mediaAluno\bin\Debug\net6.0-windows\mediaAluno.dll
+C:\AulaFIAPC#\mediaAluno\mediaAluno\bin\Debug\net6.0-windows\ref\mediaAluno.dll
+C:\AulaFIAPC#\mediaAluno\mediaAluno\bin\Debug\net6.0-windows\mediaAluno.pdb
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.Form1.resources
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.csproj.GenerateResource.cache
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.AssemblyInfo.cs
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.dll
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\ref\mediaAluno.dll
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.pdb
+C:\AulaFIAPC#\mediaAluno\mediaAluno\obj\Debug\net6.0-windows\mediaAluno.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\bin\Debug\matrizParesDesenhado.exe.config
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\bin\Debug\matrizParesDesenhado.exe
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\bin\Debug\matrizParesDesenhado.pdb
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.csproj.SuggestedBindingRedirects.cache
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.Form1.resources
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.Properties.Resources.resources
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.csproj.GenerateResource.cache
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.exe
+C:\AulaFIAPC#\matrizParesDesenhado\matrizParesDesenhado\obj\Debug\matrizParesDesenhado.pdb

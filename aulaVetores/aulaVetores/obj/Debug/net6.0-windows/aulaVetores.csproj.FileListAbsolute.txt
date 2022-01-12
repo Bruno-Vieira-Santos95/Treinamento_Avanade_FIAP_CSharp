@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\aulaVetores\aulaVetores\bin\Debug\net6.0-windows\aulaVetores.exe
+C:\AulaFIAPC#\aulaVetores\aulaVetores\bin\Debug\net6.0-windows\aulaVetores.deps.json
+C:\AulaFIAPC#\aulaVetores\aulaVetores\bin\Debug\net6.0-windows\aulaVetores.runtimeconfig.json
+C:\AulaFIAPC#\aulaVetores\aulaVetores\bin\Debug\net6.0-windows\aulaVetores.dll
+C:\AulaFIAPC#\aulaVetores\aulaVetores\bin\Debug\net6.0-windows\ref\aulaVetores.dll
+C:\AulaFIAPC#\aulaVetores\aulaVetores\bin\Debug\net6.0-windows\aulaVetores.pdb
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.Form1.resources
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.csproj.GenerateResource.cache
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.AssemblyInfo.cs
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.dll
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\ref\aulaVetores.dll
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.pdb
+C:\AulaFIAPC#\aulaVetores\aulaVetores\obj\Debug\net6.0-windows\aulaVetores.genruntimeconfig.cache

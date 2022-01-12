@@ -1,0 +1,11 @@
+C:\AulaFIAPC#\vetores\vetores\bin\Debug\vetores.exe.config
+C:\AulaFIAPC#\vetores\vetores\bin\Debug\vetores.exe
+C:\AulaFIAPC#\vetores\vetores\bin\Debug\vetores.pdb
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.csproj.SuggestedBindingRedirects.cache
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.Form1.resources
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.Properties.Resources.resources
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.csproj.GenerateResource.cache
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.exe
+C:\AulaFIAPC#\vetores\vetores\obj\Debug\vetores.pdb

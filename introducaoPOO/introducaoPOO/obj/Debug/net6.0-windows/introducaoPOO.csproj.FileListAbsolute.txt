@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\bin\Debug\net6.0-windows\introducaoPOO.exe
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\bin\Debug\net6.0-windows\introducaoPOO.deps.json
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\bin\Debug\net6.0-windows\introducaoPOO.runtimeconfig.json
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\bin\Debug\net6.0-windows\introducaoPOO.dll
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\bin\Debug\net6.0-windows\ref\introducaoPOO.dll
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\bin\Debug\net6.0-windows\introducaoPOO.pdb
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.Form1.resources
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.csproj.GenerateResource.cache
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.AssemblyInfo.cs
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.dll
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\ref\introducaoPOO.dll
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.pdb
+C:\AulaFIAPC#\introducaoPOO\introducaoPOO\obj\Debug\net6.0-windows\introducaoPOO.genruntimeconfig.cache

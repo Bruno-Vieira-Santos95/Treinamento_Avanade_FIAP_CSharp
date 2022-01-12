@@ -1,0 +1,11 @@
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\bin\Debug\mediaAlunoArray.exe.config
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\bin\Debug\mediaAlunoArray.exe
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\bin\Debug\mediaAlunoArray.pdb
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.csproj.SuggestedBindingRedirects.cache
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.Form1.resources
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.Properties.Resources.resources
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.csproj.GenerateResource.cache
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.exe
+C:\AulaFIAPC#\mediaAlunoArray\mediaAlunoArray\obj\Debug\mediaAlunoArray.pdb

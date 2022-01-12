@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.Form1.resources
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.csproj.GenerateResource.cache
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.AssemblyInfo.cs
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\conversorDolar\conversorDolar\bin\Debug\net6.0-windows\conversorDolar.exe
+C:\AulaFIAPC#\conversorDolar\conversorDolar\bin\Debug\net6.0-windows\conversorDolar.deps.json
+C:\AulaFIAPC#\conversorDolar\conversorDolar\bin\Debug\net6.0-windows\conversorDolar.runtimeconfig.json
+C:\AulaFIAPC#\conversorDolar\conversorDolar\bin\Debug\net6.0-windows\conversorDolar.dll
+C:\AulaFIAPC#\conversorDolar\conversorDolar\bin\Debug\net6.0-windows\ref\conversorDolar.dll
+C:\AulaFIAPC#\conversorDolar\conversorDolar\bin\Debug\net6.0-windows\conversorDolar.pdb
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.dll
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\ref\conversorDolar.dll
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.pdb
+C:\AulaFIAPC#\conversorDolar\conversorDolar\obj\Debug\net6.0-windows\conversorDolar.genruntimeconfig.cache

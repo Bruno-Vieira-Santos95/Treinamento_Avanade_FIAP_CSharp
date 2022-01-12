@@ -1,0 +1,11 @@
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\bin\Debug\somaMatrizDoisPorDois.exe.config
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\bin\Debug\somaMatrizDoisPorDois.exe
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\bin\Debug\somaMatrizDoisPorDois.pdb
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.csproj.SuggestedBindingRedirects.cache
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.Form1.resources
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.Properties.Resources.resources
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.csproj.GenerateResource.cache
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.exe
+C:\AulaFIAPC#\somaMatrizDoisPorDois\somaMatrizDoisPorDois\obj\Debug\somaMatrizDoisPorDois.pdb

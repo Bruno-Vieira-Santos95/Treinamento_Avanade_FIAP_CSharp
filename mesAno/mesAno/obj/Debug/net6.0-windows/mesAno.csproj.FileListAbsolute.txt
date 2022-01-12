@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\mesAno\mesAno\bin\Debug\net6.0-windows\mesAno.exe
+C:\AulaFIAPC#\mesAno\mesAno\bin\Debug\net6.0-windows\mesAno.deps.json
+C:\AulaFIAPC#\mesAno\mesAno\bin\Debug\net6.0-windows\mesAno.runtimeconfig.json
+C:\AulaFIAPC#\mesAno\mesAno\bin\Debug\net6.0-windows\mesAno.dll
+C:\AulaFIAPC#\mesAno\mesAno\bin\Debug\net6.0-windows\ref\mesAno.dll
+C:\AulaFIAPC#\mesAno\mesAno\bin\Debug\net6.0-windows\mesAno.pdb
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.Form1.resources
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.csproj.GenerateResource.cache
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.AssemblyInfo.cs
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.dll
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\ref\mesAno.dll
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.pdb
+C:\AulaFIAPC#\mesAno\mesAno\obj\Debug\net6.0-windows\mesAno.genruntimeconfig.cache

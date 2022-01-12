@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.Form1.resources
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.csproj.GenerateResource.cache
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.AssemblyInfo.cs
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\bin\Debug\net6.0-windows\calculadoraPOO.exe
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\bin\Debug\net6.0-windows\calculadoraPOO.deps.json
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\bin\Debug\net6.0-windows\calculadoraPOO.runtimeconfig.json
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\bin\Debug\net6.0-windows\calculadoraPOO.dll
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\bin\Debug\net6.0-windows\ref\calculadoraPOO.dll
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\bin\Debug\net6.0-windows\calculadoraPOO.pdb
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.dll
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\ref\calculadoraPOO.dll
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.pdb
+C:\AulaFIAPC#\calculadoraPOO\calculadoraPOO\obj\Debug\net6.0-windows\calculadoraPOO.genruntimeconfig.cache

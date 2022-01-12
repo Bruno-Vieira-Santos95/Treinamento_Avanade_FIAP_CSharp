@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\bin\Debug\net6.0-windows\transaçãoBancaria.exe
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\bin\Debug\net6.0-windows\transaçãoBancaria.deps.json
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\bin\Debug\net6.0-windows\transaçãoBancaria.runtimeconfig.json
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\bin\Debug\net6.0-windows\transaçãoBancaria.dll
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\bin\Debug\net6.0-windows\ref\transaçãoBancaria.dll
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\bin\Debug\net6.0-windows\transaçãoBancaria.pdb
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.Form1.resources
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.csproj.GenerateResource.cache
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.AssemblyInfo.cs
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.dll
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\ref\transaçãoBancaria.dll
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.pdb
+C:\AulaFIAPC#\transaçãoBancaria\transaçãoBancaria\obj\Debug\net6.0-windows\transaçãoBancaria.genruntimeconfig.cache

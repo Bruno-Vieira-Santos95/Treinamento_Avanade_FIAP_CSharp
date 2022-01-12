@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\ifComposto\ifComposto\bin\Debug\net6.0-windows\ifComposto.exe
+C:\AulaFIAPC#\ifComposto\ifComposto\bin\Debug\net6.0-windows\ifComposto.deps.json
+C:\AulaFIAPC#\ifComposto\ifComposto\bin\Debug\net6.0-windows\ifComposto.runtimeconfig.json
+C:\AulaFIAPC#\ifComposto\ifComposto\bin\Debug\net6.0-windows\ifComposto.dll
+C:\AulaFIAPC#\ifComposto\ifComposto\bin\Debug\net6.0-windows\ref\ifComposto.dll
+C:\AulaFIAPC#\ifComposto\ifComposto\bin\Debug\net6.0-windows\ifComposto.pdb
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.Form1.resources
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.csproj.GenerateResource.cache
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.AssemblyInfo.cs
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.dll
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ref\ifComposto.dll
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.pdb
+C:\AulaFIAPC#\ifComposto\ifComposto\obj\Debug\net6.0-windows\ifComposto.genruntimeconfig.cache

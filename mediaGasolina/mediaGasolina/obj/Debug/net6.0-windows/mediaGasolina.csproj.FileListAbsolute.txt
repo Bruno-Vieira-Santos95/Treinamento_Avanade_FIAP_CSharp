@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.frmGasolina.resources
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.csproj.GenerateResource.cache
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.AssemblyInfo.cs
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\bin\Debug\net6.0-windows\mediaGasolina.exe
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\bin\Debug\net6.0-windows\mediaGasolina.deps.json
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\bin\Debug\net6.0-windows\mediaGasolina.runtimeconfig.json
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\bin\Debug\net6.0-windows\mediaGasolina.dll
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\bin\Debug\net6.0-windows\ref\mediaGasolina.dll
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\bin\Debug\net6.0-windows\mediaGasolina.pdb
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.dll
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\ref\mediaGasolina.dll
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.pdb
+C:\AulaFIAPC#\mediaGasolina\mediaGasolina\obj\Debug\net6.0-windows\mediaGasolina.genruntimeconfig.cache

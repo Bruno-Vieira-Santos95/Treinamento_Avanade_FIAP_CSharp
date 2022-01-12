@@ -1,0 +1,17 @@
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\bin\Debug\net6.0-windows\livraria_heranca.exe
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\bin\Debug\net6.0-windows\livraria_heranca.deps.json
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\bin\Debug\net6.0-windows\livraria_heranca.runtimeconfig.json
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\bin\Debug\net6.0-windows\livraria_heranca.dll
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\bin\Debug\net6.0-windows\ref\livraria_heranca.dll
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\bin\Debug\net6.0-windows\livraria_heranca.pdb
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.Form1.resources
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.csproj.GenerateResource.cache
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.AssemblyInfoInputs.cache
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.AssemblyInfo.cs
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.dll
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\ref\livraria_heranca.dll
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.pdb
+C:\AulaFIAPC#\livraria_heranca\livraria_heranca\obj\Debug\net6.0-windows\livraria_heranca.genruntimeconfig.cache

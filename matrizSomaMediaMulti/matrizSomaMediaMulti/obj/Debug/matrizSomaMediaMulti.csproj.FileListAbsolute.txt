@@ -1,0 +1,11 @@
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\bin\Debug\matrizSomaMediaMulti.exe.config
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\bin\Debug\matrizSomaMediaMulti.exe
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\bin\Debug\matrizSomaMediaMulti.pdb
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.csproj.AssemblyReference.cache
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.csproj.SuggestedBindingRedirects.cache
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.Form1.resources
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.Properties.Resources.resources
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.csproj.GenerateResource.cache
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.csproj.CoreCompileInputs.cache
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.exe
+C:\AulaFIAPC#\matrizSomaMediaMulti\matrizSomaMediaMulti\obj\Debug\matrizSomaMediaMulti.pdb
